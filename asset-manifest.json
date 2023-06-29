@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rehaqm/ExpenseCalculator.git/static/css/main.e6c13ad2.css",
+    "main.js": "/rehaqm/ExpenseCalculator.git/static/js/main.a2aceccc.js",
+    "index.html": "/rehaqm/ExpenseCalculator.git/index.html",
+    "main.e6c13ad2.css.map": "/rehaqm/ExpenseCalculator.git/static/css/main.e6c13ad2.css.map",
+    "main.a2aceccc.js.map": "/rehaqm/ExpenseCalculator.git/static/js/main.a2aceccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a2aceccc.js"
+  ]
+}
